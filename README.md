@@ -1,2 +1,2 @@
 # Project-coding-storage
-Store all useful code here
+The minority_game.ipynb contains the plain solution by using q-learning to solve minority game.
